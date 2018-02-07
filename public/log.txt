@@ -1,0 +1,4 @@
+2018-01-25 10:32:59| stdClass Object
+(
+    [act] => normal.test
+)
